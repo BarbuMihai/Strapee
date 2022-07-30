@@ -3,7 +3,7 @@ import themes from "strapi-code-themes";
 const config = {
   locales: [],
   theme: {
-    colors: themes.githubDarkMode,
+    colors: themes.dracula,
   },
 };
 
