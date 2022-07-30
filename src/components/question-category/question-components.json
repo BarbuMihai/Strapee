@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_question_category_question_components",
+  "info": {
+    "displayName": "QuestionComponents",
+    "icon": "hammer"
+  },
+  "options": {},
+  "attributes": {
+    "QuestionTitle": {
+      "type": "string"
+    },
+    "question_type": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::question-type.question-type"
+    }
+  }
+}
