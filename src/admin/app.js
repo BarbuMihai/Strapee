@@ -1,6 +1,6 @@
 import themes from "strapi-code-themes";
-import BILogo from "./assets/BILogo.png";
-import BILicon from "./assets/BILicon.ico";
+import BILogo from "./extensions/BILogo.png";
+import BILicon from "./extensions/BILicon.ico";
 
 const config = {
   locales: [],
